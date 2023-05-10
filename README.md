@@ -1,2 +1,3 @@
 # Global-Game-Jam
-#this is my game for the global game jam 2023 theme "roots"
+#this is our game for the global game jam 2023 theme "roots"
+#link: https://ahmedhaitham1902.itch.io/jala
